@@ -16,13 +16,13 @@
 [Apostrophes](#Apostrophes) <br>
 
 ## Bold
-Use to bold to highlight button names, field names, menus, radio buttons, or checkboxes. For example:
+Use bold to highlight button names, field names, menus, radio buttons, or checkboxes. For example:
 - Click the **Create** button to start the process.
 - Enter your IP address in the **IP Address** field.
 
 
 ## Italics
-Use italics to emphasize a word or group of words. For Example:
+Use italics to emphasize a word or group of words. For example:
 - *At least* two reviews are required before you check in your code.
 - You must *not* enter without your ID card.
 
@@ -31,9 +31,11 @@ Use italics to emphasize a word or group of words. For Example:
 ## Fixed Font
 Use a fixed font to highlight: 
 - **Commands or pieces of code**. For example:
-Run the `npm install text-cli` command to install the utility. 
-- **Fil or folder names**. For example:
-Read the `README.md` file before you proceed.
+
+    Run the `npm install text-cli` command to install the utility. 
+- **File or folder names**. For example:
+
+    Read the `README.md` file before you proceed.
 
 ## Abbreviations
 Never use the following abbreviations in a formal document:
@@ -41,7 +43,8 @@ Never use the following abbreviations in a formal document:
 <table>
 	<tr>
 		<td>e.g.</td>
-		<td>Instead use "for example".</td>
+		<td>Instead use "for example". &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
 	</tr>
 	<tr>
 		<td>i.e.</td>
@@ -85,9 +88,11 @@ Remember these rules about numbers:
 - Spell out numbers that are less than 10 (0-9). 
 For example: I have seven aunts.
 - Use numerals for 10 and higher. 
-For example: This hub has 32 ports.
+
+  For example: This hub has 32 ports.
 - Use a comma to make it easier to read numbers higher than 999. 
-For example: The network supports up to 10,000 connections.
+
+  For example: The network supports up to 10,000 connections.
 
 
 ## Contractions
@@ -109,4 +114,4 @@ Do not use an apostrophe for the plural of acronyms. For example:
 	</tr>
 </table>
 
-![](https://i.imgur.com/qRJodXf.png)
+
