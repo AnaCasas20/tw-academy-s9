@@ -4,16 +4,16 @@
 ---
 
 ## Table of Contents
-[Bold](#Bold)
-[Italics](#Italics)
-[Fixed Font](#Fixed-Font)
-[Abbreviations](#Abbreviations)
-[Capitalization](#Capitalization)
-[Acronyms](#Acronyms)
-[Commas in Lists](#Commas-in-Lists)
-[Numbers](#Numbers)
-[Contractions](#Contractions)
-[Apostrophes](#Apostrophes)
+[Bold](#Bold) <br>
+[Italics](#Italics) <br>
+[Fixed Font](#Fixed-Font) <br>
+[Abbreviations](#Abbreviations) <br>
+[Capitalization](#Capitalization) <br>
+[Acronyms](#Acronyms) <br>
+[Commas in Lists](#Commas-in-Lists) <br>
+[Numbers](#Numbers)<br>
+[Contractions](#Contractions)<br>
+[Apostrophes](#Apostrophes) <br>
 
 ## Bold
 Use to bold to highlight button names, field names, menus, radio buttons, or checkboxes. For example:
